@@ -1,5 +1,7 @@
 # SauceDemo UI Test Automation
 
+![Selenium E2E Suite](https://github.com/EduCelestrino/saucedemo-automation-java/actions/workflows/ci.yml/badge.svg)
+
 🇺🇸 [English](#-english) | 🇧🇷 [Português](#-português)
 
 ---
