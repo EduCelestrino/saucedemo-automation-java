@@ -70,7 +70,7 @@ mvn -version
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/saucedemo-automation.git
+git clone https://github.com/EduCelestrino/saucedemo-automation.git
 cd saucedemo-automation
 ```
 
@@ -217,7 +217,7 @@ mvn -version
 **1. Clone o repositório**
 
 ```bash
-git clone https://github.com/SEU-USUARIO/saucedemo-automation.git
+git clone https://github.com/EduCelestrino/saucedemo-automation.git
 cd saucedemo-automation
 ```
 
